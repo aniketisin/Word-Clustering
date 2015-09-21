@@ -6,4 +6,6 @@ This expects tokenized input, one can use nltk (python module) to tokenize the d
 Usage:
 Run kmeans.py, run the file without any arguments to get usage instructions.
 
-Warning: Do not run on a very large dataset as algorithm is slow, for such uses use pypy (Just in Time compiler for python) to run the code, then it is fine to use on large dataset, like the one given in sample data.
+Warning: 
+The Sample Data provided is a large dataset.
+Do not run on a very large dataset as algorithm is slow, for such uses use pypy (Just in Time compiler for python) to run the code, then it is fine to use on large dataset.
